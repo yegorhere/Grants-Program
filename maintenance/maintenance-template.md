@@ -4,9 +4,9 @@
 >
 > See the [Maintenance Grants Process](../README.md#hammer_and_wrench-maintenance-grants) on how to submit a proposal.
 
-- **Project Code Name:** Code name of the project (e.g. JsonRPC Tools Maintenance)
-- **Team Name:** Legal name of your team (e.g. JsonCorp)
-- **Payment Address:** A NEAR account to where funds can be transfered (e.g. myproject.near)
+- **Project Code Name:** HERE Wallet
+- **Team Name:** HERE team 
+- **Payment Address:** mm.herewallet.near
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -21,10 +21,10 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 Please provide the following:
 
 - If the code name of the project is not descriptive, a tag line (one sentence summary).
-- A brief description of the project.
-- How will the project you want to take for maintenance help the ecosystem of Mintbase / NEAR and what problems does it solve?
-- An indication of why your team is interested in supporting this project.
-- Outline of why the specific projects should continue being supported.
+- HERE Wallet is a mobile wallet for NEAR Protocol with traditional bank UX focus on mass adoption. 
+- We wanna build NFT linkdrop for web2 users via phone number. That's how we could attract web2 users to NEAR ecosystem. 
+- We have a clear view that the future is web3 and NEAR will play a big role in this. The best way to attract more users to web3 is to make it as much simple as possible. So that someone does not even realize that he is in Web3.
+- Because only through such projects we will attract 1 billion users to NEAR. 
 
 ### Maintenance list
 
@@ -38,14 +38,17 @@ Please provide a list of the repo(s) that need maintenance and further developme
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Petr Volnov 
+- Nikita Briuzgin
+- Patrik Duksin
+- Andrey Zhevlakov
+- Egor Konstantinov
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:** https://duo.com
+- **Contact Name:** Petr Volnov 
+- **Contact Email:** petr@herewallet.app
+- **Website:** -
 
 ### Legal Structure
 
@@ -54,9 +57,7 @@ Please provide a list of the repo(s) that need maintenance and further developme
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-If anyone on your team has applied for a grant at the Mintbase previously, please list the name of the project and legal entity here.
+You can check out team experience in our pitchdeck: https://drive.google.com/file/d/113-KSvsy-aQkSSNb_DoNtmkKI5J2-KGL/view
 
 ### Team Code Repos
 
@@ -71,8 +72,9 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/pvolnov/
+- https://www.linkedin.com/in/egor-konstantinov-24b214219/
+- https://www.linkedin.com/in/nikitadigital/
 
 ## Development Status :open_book:
 
